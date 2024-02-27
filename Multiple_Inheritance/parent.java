@@ -2,9 +2,9 @@
 public class parent {
          String Name;
          String FatherName;
-         String Mothername;
+         String MotherName;
          
     void M1 () {
-    	System.out.println("This is a Paent Class");
+    	System.out.println("---INTO THE PARENT CLASS---");
     }
 }

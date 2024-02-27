@@ -1,10 +1,11 @@
 
 public class Vehicle {
-	int vehicaneumber;
-	String model;
+	int vehicleneumber;
+	String Type;
 	String color;
+	String TopSpeed;
 	
  void showvehicle () {
-	 System.out.println("This is a Vehicle");
+	 System.out.println(" ***** Vehicle Details ******* ");
  }
 }
